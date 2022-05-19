@@ -1,0 +1,20 @@
+[[package]]
+category = "main"
+description = "Python module to allow learners to easily create GUIs"
+name = "guizero"
+optional = false
+python-versions = ">=3"
+version = "1.1.1"
+
+[package.extras]
+images = ["pillow (>=4.3.0)"]
+
+[metadata]
+content-hash = "8413ac2a5068fad4b52a5c6676ecae157893b3d42a25a3a55c964b1b0e11407d"
+python-versions = "^3.8"
+
+[metadata.files]
+guizero = [
+    {file = "guizero-1.1.1-py3-none-any.whl", hash = "sha256:a116543056598928bba32c7c29487484831d08ff24f3e0ca75524c9ccc52bf2c"},
+    {file = "guizero-1.1.1.tar.gz", hash = "sha256:949afa10b4a29d39044f4cd93f2d37c4db5a545dd8b656d5f8f5b4e1b8c4f15a"},
+]
