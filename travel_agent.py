@@ -11,7 +11,7 @@ to requested currency.
 Suported currencies: GBP,USD,EUR,BRL,JPY,TRY
 
 Version 1.02
-Author: Jonathan Dobinson
+Author: Aurora Hill
 email: 257607@student.callderdale.ac.uk
 
 '''
