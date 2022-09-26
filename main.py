@@ -5,7 +5,7 @@ GUI bureau de change
 GUI currency exchanger
 
 
-Jonathan Dobinson
+Aurora Hill
 
 1.0.1
 
